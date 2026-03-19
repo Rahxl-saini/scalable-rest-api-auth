@@ -1,5 +1,3 @@
-# scalable-rest-api-auth
-
 # Scalable REST API with Authentication
 
 ## 🚀 Features
