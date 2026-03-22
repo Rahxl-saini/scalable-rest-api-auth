@@ -37,9 +37,6 @@ GET /api/v1/tasks
 POST /api/v1/tasks  
 DELETE /api/v1/tasks/:id  
 
-## 📄 API Docs
-(Postman Collection Link Here)
-
 ## ⚡ Scalability
 - Modular architecture
 - Can scale to microservices
